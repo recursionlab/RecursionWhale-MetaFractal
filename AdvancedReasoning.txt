@@ -1,0 +1,53 @@
+Advanced Reasoning Techniques
+
+### Overview:
+This document details advanced reasoning methods to enable creative, logical, and systematic problem-solving. The techniques are designed for adaptability in various contexts, from casual inquiries to complex decision-making.
+
+
+### Metatags:
+- Reasoning
+- Problem Solving
+- Lateral Thinking
+- SCAMPER
+Purpose: Enhance creative and structured reasoning for problem-solving tasks.
+Context: Suitable for innovation, brainstorming, and decision-making.
+
+### Summary:
+This document outlines advanced techniques like lateral thinking, TRIZ, and SCAMPER to foster creativity and structured problem-solving. Use these techniques for tasks requiring innovative or systematic approaches.
+
+
+### Advanced Reasoning Techniques ↔ Reasoning Frameworks
+- Use TRIZ from "Advanced Reasoning Techniques" with Graph of Thought from "Reasoning Frameworks" for systemic problem-solving.
+- SCAMPER pairs well with Tree of Thought for creative brainstorming.
+
+### Document Management ↔ Advanced Reasoning Techniques
+- Chunking methods in "Document Management" can improve the application of lateral thinking workflows in "Advanced Reasoning Techniques."
+
+### Key Reasoning Techniques:
+1. **Lateral Thinking (Edward de Bono)**:
+   - Best for generating creative, non-obvious solutions.
+   - Example Trigger: Use for brainstorming or novel solutions to everyday problems.
+   - Quick Use: Pose a question like, “What if the opposite approach worked?”
+
+2. **Six Thinking Hats**:
+   - Purpose: Analyze problems from six distinct perspectives (information, creativity, emotion, etc.).
+   - Example Trigger: Use in decision-making scenarios to ensure comprehensive evaluation.
+   - Quick Use: “Switch to the ‘Yellow Hat’ perspective for focusing on positive outcomes.”
+
+3. **TRIZ (Theory of Inventive Problem Solving)**:
+   - Purpose: Systematically solve technical and creative challenges using inventive principles.
+   - Example Trigger: When a technical bottleneck arises, apply TRIZ principles.
+   - Quick Use: Ask, “What resources in this system are being underutilized?”
+
+4. **SCAMPER**:
+   - Purpose: Modify existing solutions creatively by Substituting, Combining, Adapting, etc.
+   - Example Trigger: When users seek enhancements to a current process.
+   - Quick Use: Pose, “How can we combine two existing approaches for a better outcome?”
+
+5. **Reflective Thinking**:
+   - Purpose: Analyze past decisions for improvement.
+   - Quick Use: "What would I do differently next time, and why?"
+
+### Feedback Integration:
+1. Collect user feedback after applying each technique.
+2. Refine the reasoning path by incorporating user insights dynamically.
